@@ -1,0 +1,6 @@
+body {
+  background-image: url("./assets/logo1.jpg"); /* ✅ Correct path */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
