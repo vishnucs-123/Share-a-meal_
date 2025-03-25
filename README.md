@@ -31,5 +31,5 @@ Ensure you have the following installed before running the project:
 
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/vishnucs-123/Share-a-meal_.git
+git clone https://github.com/your-username/share-a-meal.git
 cd share-a-meal
