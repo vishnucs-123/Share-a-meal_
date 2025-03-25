@@ -33,3 +33,10 @@ Ensure you have the following installed before running the project:
 ```bash
 git clone https://github.com/your-username/share-a-meal.git
 cd share-a-meal
+
+2️⃣ **Install Dependencies**
+npm install
+
+3️⃣ **Start the Server**
+npm start
+
